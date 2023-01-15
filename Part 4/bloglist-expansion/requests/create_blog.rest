@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlJlcHRpbG9pZGUiLCJpZCI6IjYzYzFjZjAwMTAwZmFkOWRlMmExYjhmNSIsImlhdCI6MTY3MzcxMDk4NiwiZXhwIjoxNjczNzE0NTg2fQ.Ngsgm_dTN6JIdX-lCSUuV4nLz5d8cSuYnUqUT-SCOQ8
+
+{
+  "title": "Horizonte Perdido",
+  "author": "Progmética",
+  "url": "https://tuvieja.com"
+}
