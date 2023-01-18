@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik1lZ2FkZXRoIiwiaWQiOiI2M2M2OTM0M2Y2MjgyYjA5ZWQ4NDViMWMiLCJpYXQiOjE2NzM5NTgyMjQsImV4cCI6MTY3Mzk2MTgyNH0.A5ZKS_GzlTTCO0Qdnxl079yywqzOTxvGyvBEBFUopc8
+
+{
+  "title": "Hangar 18",
+  "author": "Dave Mustaine",
+  "url": "https://www.youtube.com"
+}
